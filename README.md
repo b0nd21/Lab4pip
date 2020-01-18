@@ -1,9 +1,9 @@
-# Lab4pip
-Java EE backend
-API:
-POST api/users/register - регистрация
-POST api/users/login - логин
-GET api/users/logout - логаут
-POST api/dots/add -добавить точку
-GET api/dots/getAll - получить все точки
-Все данные в POST-запросах в формате JSON.
+# Lab4pip <br>
+Java EE backend <br>
+API: <br>
+POST api/users/register - регистрация<br>
+POST api/users/login - логин<br>
+GET api/users/logout - логаут<br>
+POST api/dots/add -добавить точку<br>
+GET api/dots/getAll - получить все точки<br>
+Все данные в POST-запросах в формате JSON.<br>
